@@ -1,7 +1,6 @@
 # Internal Mechanism of Computer
 
 **Course:** CSE1110 – Introduction to Computer Systems  
-**Topic:** Internal Mechanisms & Architecture
 
 ---
 
