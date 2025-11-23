@@ -42,14 +42,6 @@ More courses will be added over time — including data structures, algorithms, 
 
 ---
 
-## 🧑‍💻 Target Audience
-
-* UIU CSE students
-* Freshers preparing for lab classes
-* Anyone wanting **structured beginner-level** CSE lab content
-* Students revising for viva, assignments, and contests
-
----
 
 ## 🤝 Contributions
 
