@@ -38,6 +38,7 @@ Each topic folder (`01-Computer-Basics/`, `02-Algorithm-and-Flowcharts/`, etc.) 
 | `problem-set/solutions/` | Fully explained solutions and code. |
 | `P01/`, `P02/`, etc. | Subfolders for individual problems (includes tracing/explanation). |
 
+-
 ```
 CSE1110-Introduction-to-Computer-Systems/
 │
@@ -48,9 +49,6 @@ CSE1110-Introduction-to-Computer-Systems/
 ├── 05-Loops/
 └── extras/
 ```
-
----
-*More details below.*
 
 ---
 
